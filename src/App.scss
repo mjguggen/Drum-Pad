@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css?family=Teko');
+
+.title {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-family: 'Teko', sans-serif;
+    font-size: 80px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.kit-select {
+    display: flex;
+    justify-content: center;
+}
+
+.kit {
+    font-family: 'Teko', sans-serif;
+    font-size: 25px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+input[type=checkbox]{
+	height: 0;
+	width: 0;
+	visibility: hidden;
+}
+
+label {
+	cursor: pointer;
+	text-indent: -9999px;
+	width: 60px;
+	height: 30px;
+	background: grey;
+	display: block;
+	border-radius: 100px;
+	position: relative;
+}
+
+label:after {
+	content: '';
+	position: absolute;
+	top: 5px;
+	left: 5px;
+	width: 20px;
+	height: 20px;
+	background: #fff;
+	border-radius: 90px;
+	transition: 0.3s;
+}
+
+
+input:checked + label:after {
+	left: calc(100% - 5px);
+	transform: translateX(-100%);
+}
+
+label:active:after {
+	width: 30px;
+}
+
+
+
+
+
+
+#elements-wrap {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+}
+
+
+
+#pad-wrapper {
+    position: absolute;
+    margin-top: -235px;
+    margin-left: 253px;
+}
+
+.pad-wrapper {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px 100px;
+    grid-gap: 18px;
+}
+
+.drum-pad {
+    display: block;
+    text-align: center;
+    color: white;
+    height: 95px;
+    width: 95px;
+    padding-top: 10px;
+}
+
+
+.padLetter {
+    padding-top: 20px;
+}
+
+.padID {
+    font-size: 10px;
+}
+
+
+.drum-pad:hover {
+    cursor: pointer;
+
+
+    h1 {
+        font-weight: 700;
+        text-shadow: 2px 2px 5px black;
+
+    }
+
+    .padID {
+        font-weight: 600;
+        text-shadow: 2px 2px 5px black;
+
+    }
+
+}
+
+.display {
+    display: flex;
+    justify-content: center;
+    font-family: 'Teko', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+
+
+@media only screen  and (max-device-width: 500px) {
+
+
+
+    .mpd-image {
+        width: 400px;
+
+    }
+
+    #pad-wrapper {
+        position: absolute;
+        margin-top: -125px;
+        margin-left: 135px;
+    }
+    
+    .pad-wrapper {
+
+        display: grid;
+        grid-template-columns: 60px 60px 60px 60px;
+        grid-template-rows: 60px 60px 60px 60px;
+        grid-gap: 3px;
+    }
+    
+
+
+    .drum-pad {
+        display: block;
+        text-align: center;
+        height: 50px;
+        width: 50px;
+
+    }
+    
+    
+    #padLetter {
+        opacity: 0;
+        visibility: hidden;
+    }
+    
+    .padID {
+        font-size: 10px;
+        color: white;
+        margin-top: -50px;
+        font-size: 8px;
+    }
+
+}
+
