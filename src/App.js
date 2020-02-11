@@ -3,6 +3,7 @@ import './App.scss';
 import DrumPad from './Components/DrumPad'
 import Title from './Components/Title'
 import MPD from './Components/MPD'
+import Footer from './Components/Footer'
 
 import WorkIt from './Assets/1-work-it.wav';
 import MakeIt from './Assets/2-make-it.wav';
@@ -96,15 +97,18 @@ const kit2 = [
 
         return(
         <div>
-          <Title/>
+          <div className='title-wrapper'>
+
+            <Title/>
 
 
-          <div className='kit-select'>
-            <p className='kit'>Kit 1</p>
-              <input type="checkbox" id='switch' onChange={this.onBankChanged} ref={this.switchBank}/>
-              <label title='switch bank' for='switch'>
-            </label>
-            <p className='kit'>Kit 2</p>
+            <div className='kit-select'>
+              <p className='kit'>Kit 1</p>
+                <input type="checkbox" id='switch' onChange={this.onBankChanged} ref={this.switchBank}/>
+                <label title='switch bank' for='switch'>
+              </label>
+              <p className='kit'>Kit 2</p>
+            </div>
           </div>
 
             <div id='elements-wrap'>
@@ -121,7 +125,7 @@ const kit2 = [
                 <MPD />
             </div>
             <div className='display'>{this.state.display}</div>
-
+            <Footer />
         </div>
       )
     }
