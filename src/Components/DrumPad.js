@@ -20,8 +20,6 @@ class DrumPad extends React.Component {
     componentDidMount() {
       document.addEventListener('keydown', this.handleKeydown)
       window.focus()
-
-      console.log(this.props.volume)
       document.getElementById(this.props.letter).volume = this.props.volume
     }
     

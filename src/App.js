@@ -50,7 +50,7 @@ const kit1 = [
     { id: 'Tom 1', letter: '1', src: tom1, volume: 1},
     { id: 'Tom 2', letter: '2', src: tom2, volume: 1 },
     { id: 'Tom 3', letter: '3', src: tom3, volume: 1 },
-    { id: 'tom 4', letter: '4', src: tom4, volume: 1 },
+    { id: 'Tom 4', letter: '4', src: tom4, volume: 1 },
     { id: 'Tambourine', letter: 'Q', src: tambourine, volume: 1 },
     { id: 'Cowbell', letter: 'W', src: cowbell, volume: 1 },
     { id: 'Crash', letter: 'E', src: crash, volume: .3 },
@@ -61,7 +61,7 @@ const kit1 = [
     { id: 'Open Hat 2', letter: 'F', src: openhat2, volume: .3 },
     { id: 'Kick 1', letter: 'Z', src: kick1, volume: 1 },
     { id: 'Snare 1', letter: 'X', src: snare1, volume: 1 },
-    { id: 'closed hat 1', letter: 'C', src: closedhat1, volume: .3 },
+    { id: 'Closed Hat 1', letter: 'C', src: closedhat1, volume: .3 },
     { id: 'Open Hat 1', letter: 'V', src: openhat1, volume: .3 },
   ]
 
