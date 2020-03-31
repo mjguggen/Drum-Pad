@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05c1ddb50c3ef82f8faa80233366f9c8",
+    "revision": "c86255a31e606e3422db503f41101e2d",
     "url": "/Drum-Pad/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Drum-Pad/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "1b6ed81e3a637e90ddde",
+    "revision": "77277853301635811a69",
     "url": "/Drum-Pad/static/css/main.1fa8adfe.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Drum-Pad/static/js/2.74e92d79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b6ed81e3a637e90ddde",
-    "url": "/Drum-Pad/static/js/main.6b5795b8.chunk.js"
+    "revision": "77277853301635811a69",
+    "url": "/Drum-Pad/static/js/main.bc678ad8.chunk.js"
   },
   {
     "revision": "2b7681878e4e7c061073",

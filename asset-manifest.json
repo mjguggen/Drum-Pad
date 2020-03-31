@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Drum-Pad/static/css/main.1fa8adfe.chunk.css",
-    "main.js": "/Drum-Pad/static/js/main.6b5795b8.chunk.js",
-    "main.js.map": "/Drum-Pad/static/js/main.6b5795b8.chunk.js.map",
+    "main.js": "/Drum-Pad/static/js/main.bc678ad8.chunk.js",
+    "main.js.map": "/Drum-Pad/static/js/main.bc678ad8.chunk.js.map",
     "runtime-main.js": "/Drum-Pad/static/js/runtime-main.c9d6dcb8.js",
     "runtime-main.js.map": "/Drum-Pad/static/js/runtime-main.c9d6dcb8.js.map",
     "static/css/2.47e06e2e.chunk.css": "/Drum-Pad/static/css/2.47e06e2e.chunk.css",
     "static/js/2.74e92d79.chunk.js": "/Drum-Pad/static/js/2.74e92d79.chunk.js",
     "static/js/2.74e92d79.chunk.js.map": "/Drum-Pad/static/js/2.74e92d79.chunk.js.map",
     "index.html": "/Drum-Pad/index.html",
-    "precache-manifest.c503bc3c85049ad2b649c63732438928.js": "/Drum-Pad/precache-manifest.c503bc3c85049ad2b649c63732438928.js",
+    "precache-manifest.0be21123293abacd1e02b4e823b53cc2.js": "/Drum-Pad/precache-manifest.0be21123293abacd1e02b4e823b53cc2.js",
     "service-worker.js": "/Drum-Pad/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/Drum-Pad/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.1fa8adfe.chunk.css.map": "/Drum-Pad/static/css/main.1fa8adfe.chunk.css.map",
@@ -53,6 +53,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.74e92d79.chunk.js",
     "static/css/main.1fa8adfe.chunk.css",
-    "static/js/main.6b5795b8.chunk.js"
+    "static/js/main.bc678ad8.chunk.js"
   ]
 }
