@@ -19,7 +19,6 @@ class DrumPad extends React.Component {
     }
  
     componentDidMount() {
-      console.log(this.audio)
       document.addEventListener('keydown', this.handleKeydown)
       window.focus()
     }
