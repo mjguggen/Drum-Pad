@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Drum-Pad/static/css/main.1fa8adfe.chunk.css",
-    "main.js": "/Drum-Pad/static/js/main.91f0c8be.chunk.js",
-    "main.js.map": "/Drum-Pad/static/js/main.91f0c8be.chunk.js.map",
+    "main.js": "/Drum-Pad/static/js/main.6b5795b8.chunk.js",
+    "main.js.map": "/Drum-Pad/static/js/main.6b5795b8.chunk.js.map",
     "runtime-main.js": "/Drum-Pad/static/js/runtime-main.c9d6dcb8.js",
     "runtime-main.js.map": "/Drum-Pad/static/js/runtime-main.c9d6dcb8.js.map",
     "static/css/2.47e06e2e.chunk.css": "/Drum-Pad/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.e0e27232.chunk.js": "/Drum-Pad/static/js/2.e0e27232.chunk.js",
-    "static/js/2.e0e27232.chunk.js.map": "/Drum-Pad/static/js/2.e0e27232.chunk.js.map",
+    "static/js/2.74e92d79.chunk.js": "/Drum-Pad/static/js/2.74e92d79.chunk.js",
+    "static/js/2.74e92d79.chunk.js.map": "/Drum-Pad/static/js/2.74e92d79.chunk.js.map",
     "index.html": "/Drum-Pad/index.html",
-    "precache-manifest.ae9a4bba346019b099e726c9e9b2235c.js": "/Drum-Pad/precache-manifest.ae9a4bba346019b099e726c9e9b2235c.js",
+    "precache-manifest.c503bc3c85049ad2b649c63732438928.js": "/Drum-Pad/precache-manifest.c503bc3c85049ad2b649c63732438928.js",
     "service-worker.js": "/Drum-Pad/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/Drum-Pad/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.1fa8adfe.chunk.css.map": "/Drum-Pad/static/css/main.1fa8adfe.chunk.css.map",
-    "static/js/2.e0e27232.chunk.js.LICENSE.txt": "/Drum-Pad/static/js/2.e0e27232.chunk.js.LICENSE.txt",
+    "static/js/2.74e92d79.chunk.js.LICENSE.txt": "/Drum-Pad/static/js/2.74e92d79.chunk.js.LICENSE.txt",
     "static/media/1-work-it.wav": "/Drum-Pad/static/media/1-work-it.8481c048.wav",
     "static/media/10-hour.wav": "/Drum-Pad/static/media/10-hour.9d042fe1.wav",
     "static/media/11-our.wav": "/Drum-Pad/static/media/11-our.12d8e819.wav",
@@ -30,13 +30,29 @@
     "static/media/7-faster.wav": "/Drum-Pad/static/media/7-faster.26afdf0a.wav",
     "static/media/8-stronger.wav": "/Drum-Pad/static/media/8-stronger.e1c6c173.wav",
     "static/media/9-more-than.wav": "/Drum-Pad/static/media/9-more-than.ca872d74.wav",
-    "static/media/mpd-small.jpg": "/Drum-Pad/static/media/mpd-small.7b012d68.jpg"
+    "static/media/closedhat1.wav": "/Drum-Pad/static/media/closedhat1.7761c768.wav",
+    "static/media/closedhat2.wav": "/Drum-Pad/static/media/closedhat2.256ae45d.wav",
+    "static/media/cowbell.wav": "/Drum-Pad/static/media/cowbell.a16fc01e.wav",
+    "static/media/crash.wav": "/Drum-Pad/static/media/crash.aa7554ce.wav",
+    "static/media/kick1.wav": "/Drum-Pad/static/media/kick1.ca65c25c.wav",
+    "static/media/kick2.wav": "/Drum-Pad/static/media/kick2.d98832a7.wav",
+    "static/media/mpd-small.jpg": "/Drum-Pad/static/media/mpd-small.7b012d68.jpg",
+    "static/media/openhat1.wav": "/Drum-Pad/static/media/openhat1.c8d2b037.wav",
+    "static/media/openhat2.wav": "/Drum-Pad/static/media/openhat2.842355a8.wav",
+    "static/media/ride.wav": "/Drum-Pad/static/media/ride.457f2a86.wav",
+    "static/media/snare1.wav": "/Drum-Pad/static/media/snare1.dc060cce.wav",
+    "static/media/snare2.wav": "/Drum-Pad/static/media/snare2.c836f806.wav",
+    "static/media/tambourine.wav": "/Drum-Pad/static/media/tambourine.ad26ed41.wav",
+    "static/media/tom1.wav": "/Drum-Pad/static/media/tom1.9e14fd11.wav",
+    "static/media/tom2.wav": "/Drum-Pad/static/media/tom2.0e01cac5.wav",
+    "static/media/tom3.wav": "/Drum-Pad/static/media/tom3.759b1b80.wav",
+    "static/media/tom4.wav": "/Drum-Pad/static/media/tom4.32ae8342.wav"
   },
   "entrypoints": [
     "static/js/runtime-main.c9d6dcb8.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.e0e27232.chunk.js",
+    "static/js/2.74e92d79.chunk.js",
     "static/css/main.1fa8adfe.chunk.css",
-    "static/js/main.91f0c8be.chunk.js"
+    "static/js/main.6b5795b8.chunk.js"
   ]
 }
